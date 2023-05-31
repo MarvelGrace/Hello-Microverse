@@ -38,8 +38,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
-
+My first project is Hello-Microverse.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
