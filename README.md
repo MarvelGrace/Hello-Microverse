@@ -34,9 +34,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
+# 📖 [your_project_name] <a name="Hello-Microverse project"></a>
 
 My first project is Hello-Microverse.
 ## 🛠 Built With <a name="built-with"></a>
