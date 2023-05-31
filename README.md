@@ -34,7 +34,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="Hello-Microverse project"></a>
+# 📖 [Hello-Microverse project] <a name="Hello-Microverse project"></a>
 
 My first project is Hello-Microverse.
 ## 🛠 Built With <a name="built-with"></a>
