@@ -1,3 +1,6 @@
+<div align="center">
+  <br/>
+
 <a name="readme-top"></a>
 
 <div align="center">
@@ -31,6 +34,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
+# 📖 Hello-Microverse project <a name="about-project"></a>
+
+
+**[Hello-Microverse]** is a my first project at Microverse.
+
 Hello-Microverse project <a name="about-project"></a>
 
 This is my first project at Microverse, and its name is Hello-Microverse project.
@@ -38,7 +46,6 @@ This is my first project at Microverse, and its name is Hello-Microverse project
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 <details>
   <summary>Client</summary>
@@ -65,7 +72,6 @@ This is my first project at Microverse, and its name is Hello-Microverse project
 
 ### Key Features <a name="key-features"></a>
 
-
 - **[key_feature_1]**
 - **[key_feature_2]**
 - **[key_feature_3]**
@@ -75,7 +81,6 @@ This is my first project at Microverse, and its name is Hello-Microverse project
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
 
 - [Live Demo Link](https://google.com)
 
